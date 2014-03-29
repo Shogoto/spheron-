@@ -1,0 +1,54 @@
+#Fairy
+**Name:** Fairy
+
+**Geographic Region:** the planet Effulgence
+
+**Age Range:** (how long race approximately lives)
+
+**Age of Maturity:** (at what age is being able to reproduce)
+
+**Diet:** Carnivore/Omnivore/Herbivore
+
+
+##Appearance: (delete what does not apply)
+###Head 
+- Shape of Head - 
+- (head decoration, like Horns/Antlers/Antenna/Whatever) - (shape, color, whatever, add bullets as needed)
+- Hair Color Range - (dominant), (recessive).
+- Hair Shape Range - (like curly and stuff) (dominant), (recessive).
+- Ears - (describe ears)
+
+###Face
+- Eye Shape - (like the pupil, or the actual shape of eye)
+- Eye Color Range - (dominant), (recessive)
+- Eyebrows - (dominant), (recessive)
+- Mouth/Teeth - 
+
+###Body
+- Body Shape - (describe body, add bullets as needed)
+- Skin Color Range - (dominant), (recessive).
+- Skin Markings - (like freckles and stripes) (dominant), (recessive).
+- Wings - 
+- Hands - 
+- Feet - 
+- Tail - 
+
+
+##Strengths:
+(bulleted form)
+
+
+##Weaknesses:
+(bulleted form)
+
+
+##Skills:
+(bulleted form)
+
+
+##Behavior:
+(describe behavior)
+
+
+##Other:
+

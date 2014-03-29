@@ -1,0 +1,24 @@
+#Introduction
+
+Earth is a beautiful planet with a rich history. It was one of the first planets to reactivate the gates and commence space travel well before the first rocket ship left Spark. Earth consists of three continents and contains a mid flying islet-belt, that rotates around the planet near its equator.
+
+**Inhabitants:**
+This planet is inhabited by Shades, Ent, Totru and Dwarves.
+Before the “second apocalypse”, goblins lived on Earth as well, but got wiped out.
+
+##Description
+
+>earthPic>
+something-something-something...
+
+Earth has a very broad islet-belt floating around its equator. An islet-belt is a ring consisting of flying islands and rocks that incircles the planet within its atmosphere.
+
+##Geographic Regions
+
+>map>
+
+##The Southern Continent
+
+##The Northeast Continent
+
+##The Northwest Continent

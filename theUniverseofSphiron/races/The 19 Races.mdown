@@ -1,0 +1,40 @@
+This is just a list of all the races.
+
+##The High Races:
+* Giant
+* Elf-folk/Elphin
+	* Tall-Elf/Ghent-Elf
+	* Elf
+	* Wood-elf/Dweor-Elf
+	* Drow/Deep-elf/Dark-elf
+* Shade
+* Man
+* The Dweorg-People/Zwerg
+	* Dwarves
+	* Gnomes
+* Goblin-kind
+	* Goblin
+* Troll
+* Ogre
+
+##The Beast Races:
+* Fay-kind/Sprites
+	* Fairy
+	* Pixy
+	* Imp/Hobgoblin/Sea-Goblin/Puck
+	* Browny
+	* Leprechaun/pixy-elf
+* Ent / The Tree People
+* Centaur
+* Faun
+* Merfolk
+* Kumulu (Koo-moo-loo) (squid people)
+* Naga (snake people)
+* Harpy
+* The Beast People (call themselves Toru)
+
+##The Invisible Races:
+ * Spirits
+ * Elementals
+ * Nymphs
+
